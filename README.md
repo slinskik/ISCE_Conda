@@ -1,5 +1,5 @@
 # ISCE_Conda
-Notes for a working ISCE install in a Conda environment
+Notes for a working ISCE v2.1.0 install in a Conda environment
 
 Following: https://github.com/scottyhq/isce_notes/tree/master/Ubuntu 
 1)	Get miniconda: 
